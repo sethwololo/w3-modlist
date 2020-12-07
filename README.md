@@ -2,7 +2,7 @@
 
 ## Passos iniciais
 
-### Ajustes no arquivo user.settings
+### Ajustes no arquivo user.settings (Documents/)
 
 #### Uso de VRAM
   `
@@ -13,38 +13,6 @@
 #### Telas diferentes de 16:9
   + 16:10: `uiVerticalFrameScale=1.1253`
   + 21:9 (não necessário na versão GOTY): `uiHorizontalFrameScale=1.3125`
-
-#### Correções visuais relacionadas às sombras
-  Para correção desses bugs use os seguintes valores:
-  `
-  [Rendering]
-  CascadeShadowDistanceScale0=3
-  CascadeShadowDistanceScale1=3
-  CascadeShadowDistanceScale2=2.5
-  CascadeShadowDistanceScale3=2
-  `
-
-  Para aumentar o desempenho sem uma perda de qualidade perceptível use o seguinte valor:
-  `
-  [Rendering]
-  CascadeShadowmapSize=2048
-  `
-
-  Para corrigir o pop-in de sombras de objetos carregados por NPCs use o seguinte valor:
-  `
-  [Rendering]
-  CharacterShadowsFallbackDistance=40
-  `
-
-  Para aumentar a fidelidade visual ao custo de alguns frames use essas configurações:
-  `
-  [Rendering]
-  CascadeShadowDistanceScale0=4
-  CascadeShadowDistanceScale1=4
-  CascadeShadowDistanceScale2=3
-  CascadeShadowDistanceScale3=2
-  CascadeShadowQuality=4
-  `
 
 ### Instalar o The Witcher 3 Mod Manager
   Automatiza o processo de instalação e gerenciamento de mods
@@ -58,12 +26,11 @@
 
 ## Mods
 
-
 ### Base
   - Community patch base - https://www.nexusmods.com/witcher3/mods/3652
   - Community patch shared imports - https://www.nexusmods.com/witcher3/mods/2110
   - Community patch besserwisser - https://www.nexusmods.com/witcher3/mods/3163
-  - All NPCs Scabbards - https://www.nexusmods.com/witcher3/mods/1569/
+  - All NPCs Scabbards - https://www.nexusmods.com/witcher3/mods/1569/ (colocar a prioridade menor que o besserwisser)
 
 ### Gameplay
   - Ghost Mode - https://www.nexusmods.com/witcher3/mods/992
@@ -72,7 +39,8 @@
   - Immersive real-time cutscenes - https://www.nexusmods.com/witcher3/mods/4574
   - No dirty lens effect - https://www.nexusmods.com/witcher3/mods/347
   - No water droplets on screen - https://www.nexusmods.com/witcher3/mods/408
-  - HairWorks on everything but Geralt's hair
+  - HairWorks on everything but Geralt's hair - https://www.nexusmods.com/witcher3/mods/1805
+  - ProShadows - https://www.nexusmods.com/witcher3/mods/4244
 
 ### UI
   - Friendly HUD - https://www.nexusmods.com/witcher3/mods/365
@@ -101,6 +69,9 @@
   - New Starfields - https://www.nexusmods.com/witcher3/mods/5283
   - Fixed E3Reworked Quen - Discord Gudmods 4.0 #downloads
   - Meadows - An Efflorescent Grass Mod - https://www.nexusmods.com/witcher3/mods/4757
+  - HD Trree LOD billboards (base e toussaint) - https://www.nexusmods.com/witcher3/mods/3739
+  - E3 HD Birds Reworked Project - https://www.nexusmods.com/witcher3/mods/3204
+  - HD Palace - https://www.nexusmods.com/witcher3/mods/4781
 
 ### Cabelo/Barba/Rosto/NPCS
   - Witchers Eyes Lore Friendly - https://www.nexusmods.com/witcher3/mods/2259
@@ -108,6 +79,8 @@
   - Lore friendly Ciri - https://www.nexusmods.com/witcher3/mods/685
   - Triss (g)lorified - https://www.nexusmods.com/witcher3/mods/3223
   - Triss (g)lorified wardrobe - https://www.nexusmods.com/witcher3/mods/3722
+  - Eredin VGX Mask - https://www.nexusmods.com/witcher3/mods/2077
+  - Eredin VGX Armour - https://www.nexusmods.com/witcher3/mods/1319
 
 ## Addons
   - More Robes - https://www.nexusmods.com/witcher3/mods/2144
