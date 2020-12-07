@@ -50,6 +50,7 @@
   - (Opcional) (Pode dar conflito com outros mods) E3 UI and HUD - https://www.nexusmods.com/witcher3/mods/2996
 
 ### Camera
+  - Immersive Cam - https://www.nexusmods.com/witcher3/mods/689
   - Absolute Camera - https://www.nexusmods.com/witcher3/mods/856
 
 ### Iluminação
