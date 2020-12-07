@@ -53,6 +53,7 @@
   - Absolute Camera - https://www.nexusmods.com/witcher3/mods/856
 
 ### Iluminação
+  - Phoenix Lighting Mod - https://www.nexusmods.com/witcher3/mods/3170
   - Willy Wonka's Verona (Base beta 12mb - Toussaint 6mb) - Discord Gudmods 4.0
   - W3 Reworked Lighting Project Beta - Discord Gudmods 4.0 (Pode dar alguns problemas com outros mods)
   - Immersive Lighting - https://www.nexusmods.com/witcher3/mods/3953?tab=files
@@ -72,6 +73,7 @@
   - HD Trree LOD billboards (base e toussaint) - https://www.nexusmods.com/witcher3/mods/3739
   - E3 HD Birds Reworked Project - https://www.nexusmods.com/witcher3/mods/3204
   - HD Palace - https://www.nexusmods.com/witcher3/mods/4781
+  - Heavy Clouds - https://www.nexusmods.com/witcher3/mods/3315
 
 ### Cabelo/Barba/Rosto/NPCS
   - Witchers Eyes Lore Friendly - https://www.nexusmods.com/witcher3/mods/2259
