@@ -76,7 +76,8 @@
   - Heavy Clouds - https://www.nexusmods.com/witcher3/mods/3315
 
 ### Cabelo/Barba/Rosto/NPCS
-  - Witchers Eyes Lore Friendly - https://www.nexusmods.com/witcher3/mods/2259
+  - Yet another hairworks mod - https://www.nexusmods.com/witcher3/mods/5342
+  - Glowing Witcher Eyes - https://www.nexusmods.com/witcher3/mods/2234
   - Yennefer concept hair - https://www.nexusmods.com/witcher3/mods/2567
   - Lore friendly Ciri - https://www.nexusmods.com/witcher3/mods/685
   - Triss (g)lorified - https://www.nexusmods.com/witcher3/mods/3223
